@@ -23,7 +23,7 @@ class Pricing extends React.Component {
             <div className="container ">
               <div className="box columns has-background-black">
                 <div className="column level">
-                  <h1 className="title has-text-white has-text-center level-item">
+                  <h1 className="title has-text-white has-text-center level-item cursor">
                     <span className="hvr-float">P</span>
                     <span className="hvr-float">r</span>
                     <span className="hvr-float">i</span>
