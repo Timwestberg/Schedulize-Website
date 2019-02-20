@@ -1,25 +1,19 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Home from "./pages/Home";
+import Home from "./pages/Home/Home";
 import Team from "./pages/Team";
-import Pricing from "./pages/Pricing";
+import Pricing from "./pages/Pricing/index";
 import Contact from "./pages/Contact";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 
 class App extends Component {
-  
-  handleTabs = () => {
-    if (Home) {
-      this.setState({ nav: { home: { active: true } } });
-    }
-  };
   render() {
     return (
       <Router>
         <div className="hero is-fullheight ">
-          <Nav handleTabs={this.handleTabs} />
-          <div className="hero-body has-background-dark">
+          <Nav />
+          <div className="hero-body has-background-primary">
             <Switch>
               <Route exact path="/" component={Home} />
               <Route exact path="/team" component={Team} />
