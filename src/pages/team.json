@@ -1,0 +1,38 @@
+[
+	{
+		"devloperName": "Timothy Westberg",
+		"devloperDesciption": "I am a user-focused Web Developer with a passion for integrating technologies to solve problems and improve existing methods. My background in sales, finance, and office management provides me with a unique perspective on how end-users interact with websites and software platforms. I enjoy approaching programming challenges from different angles and collaborating with others to create meaningful web applications that effectively elevate the user and client experience. My ultimate goal is to provide  robust solutions that seem simple an intuitive to the client.",
+		"email": "Timwestberg@formulagen",
+		"linkIn": " https://www.linkedin.com/in/tim-westberg-516022162/",
+		"github": "https://github.com/Timwestberg",
+		"website": "https://timwestberg.herokuapp.com/ ",
+		"photo": "./img/TimW.jpg"
+	},
+	{
+		"devloperName": "Paul Tamayo ",
+		"devloperDesciption": "I am a Full Stack Developer that is eager to learn more technologies and further develop my coding skills. Learning new skills has always been a passion of mine so it was easy for me to fall in love with coding. I love to create websites and apps using the MERN Stack(MongoDB, Express.js, React.js, and Node.js ).",
+		"email": "ptamayodev@gmail.com",
+		"linkIn": "https://www.linkedin.com/in/paul-tamayo-dev/",
+		"github": "https://github.com/ptamayo97/ptamayo97.github.io",
+		"website": "https://ptamayo97.github.io/",
+		"photo": "./img/PaulTamayo.png"
+	},
+	{
+		"devloperName": "Tony Phakasoum",
+		"devloperDesciption": "I graduated with a Masters in Industrial/Organizational Psychology and an MBA back in 2012. During my graduate school career is when I found my passion for coding while writing syntax for statistical models. I am looking for a position in front-end programming and I hope to ultimately end up doing backend programming. No matter what aspect of web development I end up doing, I want to keep developing my skills, and to constantly discover and learn new techniques and technologies.",
+		"email": "tphakasoum@gmail.com",
+		"linkIn": "https://www.linkedin.com/in/tony-phakasoum-ms-mba-301a5a13/",
+		"github": "https://github.com/tonyphak",
+		"website": "https://tonyphak.github.io/Prof-Portfolio/",
+		"photo": "./img/TonyP.jpg"
+	},
+	{
+		"devloperName": "Miranda Swartwood",
+		"devloperDesciption": "My CS journey of learning started with an AA in history from MiraCosta and continued into and beyond a certificate from UCSD Extension Bootcamp. I am excited to continue to work on projects that expand my skills. My work on Schedulize has been an immersion in MERN stack development. I am now learning the C language, and continuing to work on my coding skills!",
+		"email": "miranda.swartwood@gmail.com",
+		"linkIn": "https://www.linkedin.com/in/miranda-swartwood-b6b451156/",
+		"github": "https://github.com/mpmks1",
+		"website": "",
+		"photo": "./img/MirandaS.png"
+	}
+]
