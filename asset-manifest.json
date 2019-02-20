@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.1111125a.chunk.css",
-  "main.js": "/static/js/main.13625c0b.chunk.js",
-  "main.js.map": "/static/js/main.13625c0b.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/css/2.15462ceb.chunk.css": "/static/css/2.15462ceb.chunk.css",
-  "static/js/2.18af5a06.chunk.js": "/static/js/2.18af5a06.chunk.js",
-  "static/js/2.18af5a06.chunk.js.map": "/static/js/2.18af5a06.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.8f7d2c5e8551f6f274181b078d7a172c.js": "/precache-manifest.8f7d2c5e8551f6f274181b078d7a172c.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.15462ceb.chunk.css.map": "/static/css/2.15462ceb.chunk.css.map",
-  "static/css/main.1111125a.chunk.css.map": "/static/css/main.1111125a.chunk.css.map"
+  "main.css": "/Schedulize-Website/static/css/main.30e8acab.chunk.css",
+  "main.js": "/Schedulize-Website/static/js/main.6f15dd01.chunk.js",
+  "main.js.map": "/Schedulize-Website/static/js/main.6f15dd01.chunk.js.map",
+  "runtime~main.js": "/Schedulize-Website/static/js/runtime~main.e61063c3.js",
+  "runtime~main.js.map": "/Schedulize-Website/static/js/runtime~main.e61063c3.js.map",
+  "static/css/2.15462ceb.chunk.css": "/Schedulize-Website/static/css/2.15462ceb.chunk.css",
+  "static/js/2.ab00c1be.chunk.js": "/Schedulize-Website/static/js/2.ab00c1be.chunk.js",
+  "static/js/2.ab00c1be.chunk.js.map": "/Schedulize-Website/static/js/2.ab00c1be.chunk.js.map",
+  "index.html": "/Schedulize-Website/index.html",
+  "precache-manifest.89c39d719cf6dd6cef20285ae93c9cc3.js": "/Schedulize-Website/precache-manifest.89c39d719cf6dd6cef20285ae93c9cc3.js",
+  "service-worker.js": "/Schedulize-Website/service-worker.js",
+  "static/css/2.15462ceb.chunk.css.map": "/Schedulize-Website/static/css/2.15462ceb.chunk.css.map",
+  "static/css/main.30e8acab.chunk.css.map": "/Schedulize-Website/static/css/main.30e8acab.chunk.css.map"
 }
