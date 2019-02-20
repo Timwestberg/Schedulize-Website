@@ -1,5 +1,7 @@
 import React from "react";
 import "bulma-pricingtable/dist/css/bulma-pricingtable.min.css";
+import "hover.css";
+
 const Card = props => {
   return (
     // <div className='card'>
@@ -18,24 +20,33 @@ const Card = props => {
     //     </div>
     //   </div>
     // </div>
-    <div class='pricing-plan is-primary'>
-      <div class='plan-header'>{props.name}</div>
-      <div class='plan-price'>
-        <span class='plan-price-amount'>
-          <span class='plan-price-currency'>$</span>{props.price}
+    <div className="pricing-plan is-primary ">
+      <div className="plan-header ">
+        <span className="hvr-grow">{props.name}</span>
+      </div>
+      <div className="plan-price ">
+        <span className="plan-price-amount ">
+          <span className="plan-price-currency">$</span>
+          <span className="hvr-grow">{props.price}</span>
         </span>
         /month
       </div>
-      <div class='plan-items'>
-        <div class='plan-item'>20GB Storage</div>
-        <div class='plan-item'>100 Domains</div>
-        <div class='plan-item'>-</div>
-        <div class='plan-item'>-</div>
+      <div className="plan-items ">
+        <div className="plan-item">
+          <span className="hvr-grow">20GB Storage</span>
+        </div>
+        <div className="plan-item">
+          <span className="hvr-grow">100 Domains</span>
+        </div>
+        <div className="plan-item">
+          <span className="hvr-grow">20GB Storage</span>
+        </div>
+        <div className="plan-item">
+          <span className="hvr-grow">20GB Storage</span>
+        </div>
       </div>
-      <div class='plan-footer'>
-        <button class='button is-fullwidth  ' >
-          Current plan
-        </button>
+      <div className="plan-footer">
+        <button className="button is-fullwidth hvr-shadow">Current plan</button>
       </div>
     </div>
   );

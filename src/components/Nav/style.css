@@ -1,0 +1,8 @@
+.navbar .navbar-menu .navbar-end .navbar-item {
+  color: #ffffff;
+}
+
+.navbar .navbar-menu .navbar-end .navbar-item:hover {
+  background-color: #00b89c;
+  color: #ffffff;
+}
