@@ -1,5 +1,6 @@
 import React from "react";
 import "hover.css";
+import "./style.css";
 class Home extends React.Component {
   state = {};
   render() {
@@ -14,8 +15,7 @@ class Home extends React.Component {
             <br />
           </div>
           <div className="column is-12">
-            {/* <div className="box has-background-black"> */}
-            <h1 className="title is-2 has-text-black">
+            <h1 className="title is-2 has-text-black cursor">
               <span className="hvr-float-shadow ">S</span>
               <span className="hvr-float-shadow ">c</span>
               <span className="hvr-float-shadow ">h</span>
@@ -27,7 +27,7 @@ class Home extends React.Component {
               <span className="hvr-float-shadow ">z</span>
               <span className="hvr-float-shadow ">e</span>
             </h1>
-            <h2 className="subtitle is-4 has-text-dark">
+            <h2 className="subtitle is-4 has-text-dark cursor">
               <span className="hvr-float-shadow ">A</span>{" "}
               <span className="hvr-float-shadow ">c</span>
               <span className="hvr-float-shadow ">u</span>
@@ -122,14 +122,13 @@ class Home extends React.Component {
               <span className="hvr-float-shadow ">s</span>
               <span className="hvr-float-shadow ">.</span>
             </h2>
-            {/* </div> */}
             <p className="has-text-centered">
               <a
                 href="https://scheduliz.herokuapp.com/"
                 target="_blank"
                 rel="noopener"
               >
-                <button className="button is-medium is-black is-outlined hvr-grow">
+                <button className="button is-medium is-black is-outlined hvr-grow-shadow">
                   View Demo
                 </button>
               </a>

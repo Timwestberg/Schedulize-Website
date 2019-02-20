@@ -14,16 +14,16 @@ class Nav extends React.Component {
           <div className="container">
             <div className="navbar-brand">
               <Link to={"/"} className="navbar-item">
-                <span className="hvr-float is-desktop">S</span>
-                <span className="hvr-float is-desktop">c</span>
-                <span className="hvr-float is-desktop">h</span>
-                <span className="hvr-float is-desktop">e</span>
-                <span className="hvr-float is-desktop">d</span>
-                <span className="hvr-float is-desktop">u</span>
-                <span className="hvr-float is-desktop">l</span>
-                <span className="hvr-float is-desktop">i</span>
-                <span className="hvr-float is-desktop">z</span>
-                <span className="hvr-float is-desktop">e</span>
+                <span className="hvr-float ">S</span>
+                <span className="hvr-float ">c</span>
+                <span className="hvr-float ">h</span>
+                <span className="hvr-float ">e</span>
+                <span className="hvr-float ">d</span>
+                <span className="hvr-float ">u</span>
+                <span className="hvr-float ">l</span>
+                <span className="hvr-float ">i</span>
+                <span className="hvr-float ">z</span>
+                <span className="hvr-float ">e</span>
               </Link>
 
               <a
@@ -46,34 +46,34 @@ class Nav extends React.Component {
             >
               <div className="navbar-end has-text-centered ">
                 <Link to={"/"} className="navbar-item">
-                  <span className="hvr-float is-desktop">H</span>
-                  <span className="hvr-float is-desktop">o</span>
-                  <span className="hvr-float is-desktop">m</span>
-                  <span className="hvr-float is-desktop">e</span>
+                  <span className="hvr-float ">H</span>
+                  <span className="hvr-float ">o</span>
+                  <span className="hvr-float ">m</span>
+                  <span className="hvr-float ">e</span>
                 </Link>
                 <Link to={"/team"} className="navbar-item">
-                  <span className="hvr-float is-desktop">T</span>
-                  <span className="hvr-float is-desktop">e</span>
-                  <span className="hvr-float is-desktop">a</span>
-                  <span className="hvr-float is-desktop">m</span>
+                  <span className="hvr-float ">T</span>
+                  <span className="hvr-float ">e</span>
+                  <span className="hvr-float ">a</span>
+                  <span className="hvr-float ">m</span>
                 </Link>
                 <Link to={"/pricing"} className="navbar-item">
-                  <span className="hvr-float is-desktop">P</span>
-                  <span className="hvr-float is-desktop">r</span>
-                  <span className="hvr-float is-desktop">i</span>
-                  <span className="hvr-float is-desktop">c</span>
-                  <span className="hvr-float is-desktop">i</span>
-                  <span className="hvr-float is-desktop">n</span>
-                  <span className="hvr-float is-desktop">g</span>
+                  <span className="hvr-float ">P</span>
+                  <span className="hvr-float ">r</span>
+                  <span className="hvr-float ">i</span>
+                  <span className="hvr-float ">c</span>
+                  <span className="hvr-float ">i</span>
+                  <span className="hvr-float ">n</span>
+                  <span className="hvr-float ">g</span>
                 </Link>
                 {/* <Link to={"/contact"} className="navbar-item">
-                  <span className="hvr-float is-desktop">C</span>
-                  <span className="hvr-float is-desktop">o</span>
-                  <span className="hvr-float is-desktop">n</span>
-                  <span className="hvr-float is-desktop">t</span>
-                  <span className="hvr-float is-desktop">a</span>
-                  <span className="hvr-float is-desktop">c</span>
-                  <span className="hvr-float is-desktop">t</span>
+                  <span className="hvr-float ">C</span>
+                  <span className="hvr-float ">o</span>
+                  <span className="hvr-float ">n</span>
+                  <span className="hvr-float ">t</span>
+                  <span className="hvr-float ">a</span>
+                  <span className="hvr-float ">c</span>
+                  <span className="hvr-float ">t</span>
                 </Link> */}
               </div>
             </div>
