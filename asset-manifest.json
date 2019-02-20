@@ -1,15 +1,15 @@
 {
-  "main.css": "/Timwestberg/Schedulize-Website/static/css/main.c45fc7be.chunk.css",
-  "main.js": "/Timwestberg/Schedulize-Website/static/js/main.a4a36e44.chunk.js",
-  "main.js.map": "/Timwestberg/Schedulize-Website/static/js/main.a4a36e44.chunk.js.map",
-  "runtime~main.js": "/Timwestberg/Schedulize-Website/static/js/runtime~main.eba1f585.js",
-  "runtime~main.js.map": "/Timwestberg/Schedulize-Website/static/js/runtime~main.eba1f585.js.map",
-  "static/css/2.53760cc6.chunk.css": "/Timwestberg/Schedulize-Website/static/css/2.53760cc6.chunk.css",
-  "static/js/2.69ec55ad.chunk.js": "/Timwestberg/Schedulize-Website/static/js/2.69ec55ad.chunk.js",
-  "static/js/2.69ec55ad.chunk.js.map": "/Timwestberg/Schedulize-Website/static/js/2.69ec55ad.chunk.js.map",
-  "index.html": "/Timwestberg/Schedulize-Website/index.html",
-  "precache-manifest.1434eb9d0949b423569c5eb3499ed655.js": "/Timwestberg/Schedulize-Website/precache-manifest.1434eb9d0949b423569c5eb3499ed655.js",
-  "service-worker.js": "/Timwestberg/Schedulize-Website/service-worker.js",
-  "static/css/2.53760cc6.chunk.css.map": "/Timwestberg/Schedulize-Website/static/css/2.53760cc6.chunk.css.map",
-  "static/css/main.c45fc7be.chunk.css.map": "/Timwestberg/Schedulize-Website/static/css/main.c45fc7be.chunk.css.map"
+  "main.css": "/Schedulize-Website/static/css/main.c45fc7be.chunk.css",
+  "main.js": "/Schedulize-Website/static/js/main.da001932.chunk.js",
+  "main.js.map": "/Schedulize-Website/static/js/main.da001932.chunk.js.map",
+  "runtime~main.js": "/Schedulize-Website/static/js/runtime~main.e61063c3.js",
+  "runtime~main.js.map": "/Schedulize-Website/static/js/runtime~main.e61063c3.js.map",
+  "static/css/2.53760cc6.chunk.css": "/Schedulize-Website/static/css/2.53760cc6.chunk.css",
+  "static/js/2.69ec55ad.chunk.js": "/Schedulize-Website/static/js/2.69ec55ad.chunk.js",
+  "static/js/2.69ec55ad.chunk.js.map": "/Schedulize-Website/static/js/2.69ec55ad.chunk.js.map",
+  "index.html": "/Schedulize-Website/index.html",
+  "precache-manifest.f07165fb9de6e6195e08c84ee0bca35b.js": "/Schedulize-Website/precache-manifest.f07165fb9de6e6195e08c84ee0bca35b.js",
+  "service-worker.js": "/Schedulize-Website/service-worker.js",
+  "static/css/2.53760cc6.chunk.css.map": "/Schedulize-Website/static/css/2.53760cc6.chunk.css.map",
+  "static/css/main.c45fc7be.chunk.css.map": "/Schedulize-Website/static/css/main.c45fc7be.chunk.css.map"
 }

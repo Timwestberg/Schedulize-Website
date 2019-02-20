@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Timwestberg/Schedulize-Website/precache-manifest.1434eb9d0949b423569c5eb3499ed655.js"
+  "/Schedulize-Website/precache-manifest.f07165fb9de6e6195e08c84ee0bca35b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Timwestberg/Schedulize-Website/index.html", {
+workbox.routing.registerNavigationRoute("/Schedulize-Website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
