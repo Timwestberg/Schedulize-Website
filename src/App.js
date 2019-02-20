@@ -19,7 +19,7 @@ class App extends Component {
       <Router>
         <div className="hero is-fullheight ">
           <Nav handleTabs={this.handleTabs} />
-          <div className="hero-body has-background-dark">
+          <div className="hero-body has-background-primary">
             <Switch>
               <Route exact path="/" component={Home} />
               <Route exact path="/team" component={Team} />
