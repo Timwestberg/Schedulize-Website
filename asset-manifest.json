@@ -1,15 +1,15 @@
 {
-  "main.css": "/Schedulize-Website/static/css/main.30e8acab.chunk.css",
-  "main.js": "/Schedulize-Website/static/js/main.6f15dd01.chunk.js",
-  "main.js.map": "/Schedulize-Website/static/js/main.6f15dd01.chunk.js.map",
-  "runtime~main.js": "/Schedulize-Website/static/js/runtime~main.e61063c3.js",
-  "runtime~main.js.map": "/Schedulize-Website/static/js/runtime~main.e61063c3.js.map",
-  "static/css/2.15462ceb.chunk.css": "/Schedulize-Website/static/css/2.15462ceb.chunk.css",
-  "static/js/2.ab00c1be.chunk.js": "/Schedulize-Website/static/js/2.ab00c1be.chunk.js",
-  "static/js/2.ab00c1be.chunk.js.map": "/Schedulize-Website/static/js/2.ab00c1be.chunk.js.map",
-  "index.html": "/Schedulize-Website/index.html",
-  "precache-manifest.89c39d719cf6dd6cef20285ae93c9cc3.js": "/Schedulize-Website/precache-manifest.89c39d719cf6dd6cef20285ae93c9cc3.js",
-  "service-worker.js": "/Schedulize-Website/service-worker.js",
-  "static/css/2.15462ceb.chunk.css.map": "/Schedulize-Website/static/css/2.15462ceb.chunk.css.map",
-  "static/css/main.30e8acab.chunk.css.map": "/Schedulize-Website/static/css/main.30e8acab.chunk.css.map"
+  "main.css": "/Timwestberg/Schedulize-Website/static/css/main.c45fc7be.chunk.css",
+  "main.js": "/Timwestberg/Schedulize-Website/static/js/main.a4a36e44.chunk.js",
+  "main.js.map": "/Timwestberg/Schedulize-Website/static/js/main.a4a36e44.chunk.js.map",
+  "runtime~main.js": "/Timwestberg/Schedulize-Website/static/js/runtime~main.eba1f585.js",
+  "runtime~main.js.map": "/Timwestberg/Schedulize-Website/static/js/runtime~main.eba1f585.js.map",
+  "static/css/2.53760cc6.chunk.css": "/Timwestberg/Schedulize-Website/static/css/2.53760cc6.chunk.css",
+  "static/js/2.69ec55ad.chunk.js": "/Timwestberg/Schedulize-Website/static/js/2.69ec55ad.chunk.js",
+  "static/js/2.69ec55ad.chunk.js.map": "/Timwestberg/Schedulize-Website/static/js/2.69ec55ad.chunk.js.map",
+  "index.html": "/Timwestberg/Schedulize-Website/index.html",
+  "precache-manifest.1434eb9d0949b423569c5eb3499ed655.js": "/Timwestberg/Schedulize-Website/precache-manifest.1434eb9d0949b423569c5eb3499ed655.js",
+  "service-worker.js": "/Timwestberg/Schedulize-Website/service-worker.js",
+  "static/css/2.53760cc6.chunk.css.map": "/Timwestberg/Schedulize-Website/static/css/2.53760cc6.chunk.css.map",
+  "static/css/main.c45fc7be.chunk.css.map": "/Timwestberg/Schedulize-Website/static/css/main.c45fc7be.chunk.css.map"
 }
